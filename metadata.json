@@ -1,0 +1,5 @@
+{
+  "name": "Smart Word Counter",
+  "description": "A sleek and functional text analysis tool that provides real-time statistics including word, character, and sentence counts.",
+  "requestFramePermissions": []
+}
