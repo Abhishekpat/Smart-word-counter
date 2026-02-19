@@ -36,7 +36,7 @@ A high-performance, sleek, and intuitive web application for instant text analys
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/smart-word-counter.git
+git clone https://github.com/Abhishekpat/Smart-word-counter.git
 
 # 2. Navigate to the project directory
 cd smart-word-counter
