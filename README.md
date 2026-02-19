@@ -2,7 +2,7 @@
 
 A high-performance, sleek, and intuitive web application for instant text analysis. Designed with a clean UI and robust logic to help writers, students, and professionals track their content metrics effectively.
 
-🔗 **Live Demo:** [https://smart-word-counter.netlify.app](https://smart-word-counter.netlify.app)
+🔗 **Live Demo:** [https://marvelous-kelpie-f7353c.netlify.app](https://marvelous-kelpie-f7353c.netlify.app)
 
 ![Smart Word Counter Screenshot](https://img.shields.io/badge/Status-Live-brightgreen) ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript) ![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite)
 
